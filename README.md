@@ -5,7 +5,7 @@
 ### quick start:
 
 ~~~python
-```python
+```python111
 python 语音交互/scripts/main.py 语音交互/resources/models/snowboy.umdl 
 ```
 ~~~
